@@ -55,6 +55,7 @@ __HELP__ = """/ban - Ban A User
 /tmute - Mute A User For Specific Time
 /unmute - Unmute A User
 /ban_ghosts - Ban Deleted Accounts
+/snd - Send messages
 /report | @admins | @admin - Report A Message To Admins."""
 
 
